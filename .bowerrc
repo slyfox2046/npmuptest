@@ -1,0 +1,12 @@
+{
+  "registry":{
+    "search":[
+      "http://10.18.5.7:8081/repository/sanss-bower-group"
+    ],
+    "register" : "http://admin:admin123@http://10.18.5.7:8081/repository/sanss-bower-repo/"
+  },
+  "directory": "bower_components",
+  "resolvers":[
+    "bower-nexus3-resolver"
+  ]
+}

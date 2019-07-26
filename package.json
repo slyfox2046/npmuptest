@@ -1,0 +1,22 @@
+{
+  "name": "npmuptest",
+  "version": "1.1.1",
+  "description": "npm up test",
+  "main": "npmuptest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "uptest"
+  ],
+  "author": {
+    "name": "test",
+    "email": "123456@qq.com"
+  },
+  "license": "MIT"
+  
+}
